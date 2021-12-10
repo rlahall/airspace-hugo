@@ -13,16 +13,14 @@ banner:
 about:
   enable: true
   title: About Us
-  description: Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-    culpa qui officia deserunt mollit anim id.
-  image: images/wrapper-img.png
+  description: Small audio production and recording studio locate north of Washington,
+    DC.
+  content: Our audio engineer and producer provides a personal touch to meet our customers
+    needs.  With coaching and support, we strive to bring out your best sound.  Our
+    studio works in collaboration with other studios across the country, working to
+    provide exposure in many music markets.  We also produce audio tracks for music
+    and video production.
+  image: images/CBS_wrapper.png
 portfolio:
   enable: true
   bg_image: images/feature-bg.jpg
