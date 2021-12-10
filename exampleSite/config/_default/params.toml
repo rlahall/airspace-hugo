@@ -43,7 +43,7 @@ id = ""
 url = ""
 [navigation_button]
 enable = true
-label = "get a quote"
+label = "schedule a session"
 link = "contact"
 [plausible]
 domain = ""
