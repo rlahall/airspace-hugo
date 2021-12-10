@@ -1,13 +1,13 @@
 baseURL = "https://citysbestsounds.netlify.com"
 disableLanguages = []
 disqusShortname = "themefisher-template"
-googleAnalytics = ""
+googleAnalytics = "G-SLGKEHB2GP"
 hasCJKLanguage = false
 paginate = "6"
 summaryLength = "10"
 theme = "airspace-hugo"
-timeZone = "UTC"
-title = "Airspace | Creative Agency Hugo Template"
+timeZone = "EST"
+title = "City's Best Sounds Public website"
 [caches.assets]
 dir = ":resourceDir/_gen"
 maxAge = "720h"
