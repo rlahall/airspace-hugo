@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image: images/slider-bg.jpg
+  bg_image: images/Citys Best 3 Color Elongated.jpg
   bg_overlay: true
   title: An Audio Production <br/> & Recording Studio
   content: We love audio production and the work we do.We work closely with our clients
