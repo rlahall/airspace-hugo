@@ -7,7 +7,7 @@ paginate = "6"
 summaryLength = "10"
 theme = "airspace-hugo"
 timeZone = "EST"
-title = "City's Best Sounds Public website"
+title = "CBS Studio"
 [caches.assets]
 dir = ":resourceDir/_gen"
 maxAge = "720h"
