@@ -13,7 +13,7 @@ banner:
 about:
   enable: true
   title: About Us
-  description: Small audio production and recording studio locate north of Washington,
+  description: Small audio production and recording studio located north of Washington,
     DC.
   content: Our audio engineer and producer provides a personal touch to meet our customers
     needs.  With coaching and support, we strive to bring out your best sound.  Our
