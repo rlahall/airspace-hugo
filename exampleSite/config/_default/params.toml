@@ -58,14 +58,6 @@ google = ""
 [widgets]
 sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 [[social]]
-icon = "fab fa-facebook"
-link = "#"
-title = "facebook"
-[[social]]
-icon = "fab fa-twitter"
-link = "#"
-title = "twitter"
-[[social]]
 icon = "fab fa-instagram"
 link = "https://www.instagram.com/citysbestsounds/"
 title = "instagram"
