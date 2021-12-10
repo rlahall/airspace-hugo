@@ -20,7 +20,7 @@ about:
     studio works in collaboration with other studios across the country, working to
     provide exposure in many music markets.  We also produce audio tracks for music
     and video production.
-  image: images/wrapper.png
+  image: images/CBS_wrapper.png
 portfolio:
   enable: true
   bg_image: images/feature-bg.jpg
