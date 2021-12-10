@@ -23,7 +23,7 @@ about:
   image: images/CBS_wrapper.png
 portfolio:
   enable: true
-  bg_image: images/CBS_keyboard.png
+  bg_image: images/feature-bg.jpg
   title: WE BELIEVE IN GREAT IDEAS
   content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur
     ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris
