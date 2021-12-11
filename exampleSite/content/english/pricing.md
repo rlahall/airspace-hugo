@@ -11,12 +11,9 @@ pricing:
     content: Perfect for small project with simple audio recordings
     link: "#"
     services:
-    - Unlimited agents
-    - 10 PSD Design
-    - HTML5 Markup
-    - Basic SEO
-    - Email Marketing
-    - 24/7 Tech Support
+    - Live coaching during recording session
+    - Provided with raw audio files
+    - Recording session in sound booth
   - name: Premium
     price: "$199"
     content: Suitable for small businesses with up to 5 employees
