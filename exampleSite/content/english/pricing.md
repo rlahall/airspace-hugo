@@ -1,6 +1,6 @@
 ---
 title: Our Pricing
-description: call for your custom package
+description: contact us for custom package pricing
 bg_image: images/feature-bg.jpg
 layout: pricing
 pricing:
