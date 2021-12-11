@@ -7,8 +7,8 @@ $text-dark: {{.text_dark | default "#fff"}};
 $text-light: {{.text_light | default "#fff"}};
 $body-bg: {{.body_color | default "#000"}};
 $border-color: {{.border_color | default "#ECECEC"}};
-$black: {{.black | default "#000"}};
-$white: {{.white | default "#fff"}};
+$black: {{.black | default "#fff"}};
+$white: {{.white | default "#000"}};
 $light: {{.light | default "#EDF6F5"}};
 
 
