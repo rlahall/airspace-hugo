@@ -22,7 +22,7 @@ link = "plugins/google-map/gmap.js"
 link = "plugins/webfont-loader/webfont-loader-2.min.js"
 [params.variables]
 black = "#000000"
-body_color = "#fff"
+body_color = "#454545"
 border_color = "#ACB9C4"
 color_primary = "#655e7a"
 font_icon = "Font Awesome 5 Free"
