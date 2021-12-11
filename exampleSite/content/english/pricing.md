@@ -11,9 +11,9 @@ pricing:
     content: Perfect for small project with simple audio recordings
     link: ''
     services:
-    - Live coaching during recording session
-    - Provided with raw audio files
     - Recording session in sound booth
+    - Provided with raw audio files
+    - Live coaching during recording session
   - name: Premium
     price: "$199"
     content: Suitable for small businesses with up to 5 employees
