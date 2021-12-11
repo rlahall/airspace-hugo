@@ -9,7 +9,7 @@ pricing:
   - name: Standard Recording
     price: "$60 per hour"
     content: Perfect for small project with simple audio recordings
-    link: "#"
+    link: ''
     services:
     - Live coaching during recording session
     - Provided with raw audio files
